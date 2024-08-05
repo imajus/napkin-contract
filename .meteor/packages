@@ -30,3 +30,6 @@ imajus:string-helpers
 
 # Accounts
 majus:web3
+seluxit:accounts-oidc
+service-configuration
+imajus:template-controller
